@@ -13,7 +13,7 @@ int main() {
     salarioNovo = salarioInicial + aumentoReal;
 
     printf("\nO salário inicial era : R$%.2lf\n", salarioInicial);
-    printf("O aumento foi de      : %i%\n", porcentagem);
+    printf("O aumento foi de      : %i%%\n", porcentagem);
     printf("O novo salário é      : R$%.2lf\n", salarioNovo);
     printf("O aumento real foi de : R$%.2lf\n", aumentoReal);
 
